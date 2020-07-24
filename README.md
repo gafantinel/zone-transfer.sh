@@ -3,6 +3,7 @@ Bash script for dns zone transfer testing
 
 ## Dependencies
 https://github.com/tomnomnom/assetfinder
+
 https://github.com/tomnomnom/httprobe
 
 ## Usage
